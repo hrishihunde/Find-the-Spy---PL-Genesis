@@ -1,0 +1,9 @@
+{
+  "platform": "reddit",
+  "agent_count": 20,
+  "cycles": 10,
+  "llm_model": "gpt-4.1-mini",
+  "llm_provider": "openai",
+  "seed_post": "BREAKING: Iran launches coordinated drone and missile strike targeting Israeli military installations in the Negev desert. US confirms deployment of additional carrier strike group to Eastern Mediterranean. Developing story.",
+  "db_output": "simulation.db"
+}
