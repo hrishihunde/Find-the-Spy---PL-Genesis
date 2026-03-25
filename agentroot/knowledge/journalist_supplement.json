@@ -1,0 +1,11 @@
+{
+  "tier": "journalist_supplement",
+  "description": "Cross-source reporting, wire details, and diplomatic sources.",
+  "facts": [
+    "Reuters confirmed the specific numbers of drones (32) and ballistic missiles (14) directly from IDF spokespersons.",
+    "BBC World Service verified the casualty numbers (3 dead, 47 wounded) through on-the-ground medical contacts.",
+    "Associated Press reporters in Beirut note increased aerial activity over southern Lebanon but no direct Hezbollah involvement in this wave.",
+    "Al Jazeera diplomatic sources indicate back-channel communications between Washington and Tehran via Oman are currently stalled.",
+    "Pentagon briefings maintain that the USS Eisenhower's deployment is defensive, aimed at deterrence."
+  ]
+}

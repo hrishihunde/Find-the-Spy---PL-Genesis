@@ -1,0 +1,10 @@
+{
+  "tier": "humanitarian_supplement",
+  "description": "Displacement, ICRC/UNHCR field data.",
+  "facts": [
+    "UNHCR reports approximately 12,000 civilians have been displaced from southern Israeli border towns.",
+    "Emergency shelters have been fully activated in Be'er Sheva and Ashkelon.",
+    "The International Committee of the Red Cross (ICRC) maintains access to affected areas with three field hospitals currently operational.",
+    "A temporary humanitarian corridor has been established to facilitate the evacuation of the northern Negev region."
+  ]
+}

@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Project Specific
+.worldauth.json
+*.db
+*.sqlite
+agentroot/simulation.db
+m1.json
+m2.json
+m3.json
+m4.json
+
+# OS
+.DS_Store
+Thumbs.db
