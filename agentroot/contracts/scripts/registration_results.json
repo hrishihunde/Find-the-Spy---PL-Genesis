@@ -1,0 +1,142 @@
+[
+  {
+    "handle": "@reuters_amir",
+    "file": "agent_01_reuters_amir.json",
+    "ipfsCID": "QmUWkSPnYKuD578kqnhaLpW9WKNGPDSTy6pecS2V7UJxFo",
+    "erc8004TokenId": "2367",
+    "txHash": "0x8fa86245f620ba5bba3bbdcaff59f4ff1b5d0b20c32d29a62000e0deed76afb1"
+  },
+  {
+    "handle": "@bbc_james",
+    "file": "agent_02_bbc_james.json",
+    "ipfsCID": "Qmaoe45pw57yL4nUDwm6bbJFtQQtVJc5x7CDh7t9yHXqEj",
+    "erc8004TokenId": "2368",
+    "txHash": "0x6f3a06516b2d61571ddb1da6c37d3eff8cd15022d50347d3fcff9836f5f547ca"
+  },
+  {
+    "handle": "@def_analyst_sarah",
+    "file": "agent_03_def_analyst_sarah.json",
+    "ipfsCID": "QmVAxcoZ9VcWgsZuNyfQH6LV5rrSQ5bSJNQXBEN52xFbVK",
+    "erc8004TokenId": "2369",
+    "txHash": "0x11072c42bba53ff14d4f0720bd7e4fe0e51d5a439ce35e38c29f292418f3d53e"
+  },
+  {
+    "handle": "@diplomat_elena",
+    "file": "agent_04_diplomat_elena.json",
+    "ipfsCID": "QmT4dH5DMqsbGhwQ3EcDEM6ujWiVpvLwmYTooSiF5JPoWH",
+    "erc8004TokenId": "2370",
+    "txHash": "0x785ad7b1e916ac7efe100cd1e607100c9a75cf49220a69d4bdbfcab12496dca8"
+  },
+  {
+    "handle": "@econ_raj",
+    "file": "agent_05_econ_raj.json",
+    "ipfsCID": "QmVTTjm9nijV8hZszfZ3fmPyFjsgrijuZNZyAnCZ32aB1t",
+    "erc8004TokenId": "2371",
+    "txHash": "0x167a141e5f5b0464bd056eceff1979f9ebcdd8db4d79ee300288d6db4a5a3318"
+  },
+  {
+    "handle": "@civilian_priya",
+    "file": "agent_06_civilian_priya.json",
+    "ipfsCID": "QmcAAS2cp6Br3gQd9oJHvhUCZYkyseaGRHJBsX82VqmTa2",
+    "erc8004TokenId": "2372",
+    "txHash": "0x06af977afe97648d332651c1302488bb84c7adacc584713183c6f2345b67112b"
+  },
+  {
+    "handle": "@academic_lin",
+    "file": "agent_07_academic_lin.json",
+    "ipfsCID": "QmZykJYM6jJ4ysJAwFM24Eeh1DqPrJXRLrTcxoSHNG2sxx",
+    "erc8004TokenId": "2373",
+    "txHash": "0x61cfa5c91e06b8357406959326afa76f1351da7df696682b4d1ae18b6d15c274"
+  },
+  {
+    "handle": "@ap_fatima",
+    "file": "agent_08_ap_fatima.json",
+    "ipfsCID": "QmcjLB5fWXS9dDX36Kgad7ZCucNKXaZzHmC4fEXFUaBwmX",
+    "erc8004TokenId": "2374",
+    "txHash": "0xfbde40e3c4df53be0c915e0e3347ef3ea2bc2e67f5110eaa24fe24a4eb3b3a1f"
+  },
+  {
+    "handle": "@aljazeera_omar",
+    "file": "agent_09_aljazeera_omar.json",
+    "ipfsCID": "QmULj9Z3LNJxjuTrbFQPMEAYEE5uXRDHd6yyavxJcBm4gh",
+    "erc8004TokenId": "2375",
+    "txHash": "0xd42ec6119a747dc310c90604c01762b3752da2f49fa9d04d36117bbb7cab7405"
+  },
+  {
+    "handle": "@def_analyst_mark",
+    "file": "agent_10_def_analyst_mark.json",
+    "ipfsCID": "QmRYQd6119ooUsd6uN7oNG5nU7uNBHYP2naXA1Gkpqz9LY",
+    "erc8004TokenId": "2376",
+    "txHash": "0x6b6d79f1e792cb6862e330fc718cfe944caf465fd24015eebbf25252a8ca12cc"
+  },
+  {
+    "handle": "@diplomat_yuki",
+    "file": "agent_11_diplomat_yuki.json",
+    "ipfsCID": "QmdFreji18JQfmKVympAA5u1RuiSKCXtsHm43KgzvnWEaU",
+    "erc8004TokenId": "2377",
+    "txHash": "0x0c21024a2a1413de5d503d9c2277558d4476d3e791e5b698929eb7946067c892"
+  },
+  {
+    "handle": "@humanitarian_anna",
+    "file": "agent_12_humanitarian_anna.json",
+    "ipfsCID": "QmQFgrjYLEbtGNq7w96ogHKACAv1abdDsrEP7qNEZDrcyA",
+    "erc8004TokenId": "2378",
+    "txHash": "0x56e220681ce3bb7ac0b7faf9c83ad257c11610baa99ed0c523bf00b86f5caf0b"
+  },
+  {
+    "handle": "@civilian_chen",
+    "file": "agent_13_civilian_chen.json",
+    "ipfsCID": "QmQGr1pdJP6M6sg8tXXDBwQD6PD69XuBU5tikzxJaW2U3m",
+    "erc8004TokenId": "2379",
+    "txHash": "0xd4c090c676d9fd91f6356649cb12c9bfd0d3e364ffb50a4d9263af67475b7501"
+  },
+  {
+    "handle": "@def_analyst_ivan",
+    "file": "agent_14_def_analyst_ivan.json",
+    "ipfsCID": "QmVyFpw1nKVThQ67R8a7bHThQDe3p6ATKoxQRPYbnwmYfm",
+    "erc8004TokenId": "2380",
+    "txHash": "0xc2997376b34bfaae05d85ac8606b8d272cbccfc112ef4018aeb9f8084af05335"
+  },
+  {
+    "handle": "@diplomat_kwame",
+    "file": "agent_15_diplomat_kwame.json",
+    "ipfsCID": "QmRiFQH9utVjS9GGB5owPz8enteRNF42Vq8Jwn2umksDRk",
+    "erc8004TokenId": "2381",
+    "txHash": "0xc1d537b2c168e5975df7c092519c9574a6bec5c4cc254655e2b229fe8cbde9ee"
+  },
+  {
+    "handle": "@econ_sophie",
+    "file": "agent_16_econ_sophie.json",
+    "ipfsCID": "QmP8h7MRMBW1ccEUB44F9DXECZ14DaRd25VhM2Hw9CDJ1Y",
+    "erc8004TokenId": "2382",
+    "txHash": "0x120752ef3fb921e691a1996dc62a856ed97836f5669a28bafef2fad588102932"
+  },
+  {
+    "handle": "@humanitarian_tariq",
+    "file": "agent_17_humanitarian_tariq.json",
+    "ipfsCID": "QmSBBsmk4tHW5K3SinGzCSYDJLkWPXAt2ibrk24xvKdko8",
+    "erc8004TokenId": "2383",
+    "txHash": "0xe658054981ad8c5f4ac7578ad85dc02428e7ee4742d27689b26e1ba2be602fdf"
+  },
+  {
+    "handle": "@civilian_maria",
+    "file": "agent_18_civilian_maria.json",
+    "ipfsCID": "QmYRq4chmTzbDaQzqUMzqmbjA4CztHQneQQLfqPga1CuJh",
+    "erc8004TokenId": "2384",
+    "txHash": "0x0e86161c97146538917bffe5ef40a236298b42015ae563b3965e4d802b5f78e4"
+  },
+  {
+    "handle": "@academic_david",
+    "file": "agent_19_academic_david.json",
+    "ipfsCID": "QmbgszmHMVwGu68KEYGNGZiqg2sxQsCm43Kgx6yDbeAyx9",
+    "erc8004TokenId": "2385",
+    "txHash": "0xc9bdb6529cbdf55f99fa71861be602f812b4c53a558fcf51abcaa198b26ecbc3"
+  },
+  {
+    "handle": "@eli_cohen",
+    "file": "agent_20_eli_cohen.json",
+    "ipfsCID": "QmQtAwBjVyP9R7rGoqc41rfuujZ3GarYGKpUyHk6PLyFeN",
+    "erc8004TokenId": "2386",
+    "txHash": "0x96e6c8ba94816f65b2be93788b7ae706c27aec8207e2c05ac8f93ddcd8777cac"
+  }
+]

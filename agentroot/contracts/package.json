@@ -1,0 +1,19 @@
+{
+  "name": "agentroot-contracts",
+  "version": "1.0.0",
+  "description": "ERC-8004 AgentIdentityRegistry for AgentRoot v4",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network sepolia",
+    "mint": "hardhat run scripts/mint.js --network sepolia",
+    "test-local": "hardhat run scripts/deploy.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}

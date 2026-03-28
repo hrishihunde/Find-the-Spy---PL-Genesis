@@ -1,0 +1,34 @@
+{
+  "M1": {
+    "memberId": 1,
+    "memberName": "Member 1",
+    "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+    "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+    "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+    "knowledgeDomain": "Military & Journalism"
+  },
+  "M2": {
+    "memberId": 2,
+    "memberName": "Member 2",
+    "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+    "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+    "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+    "knowledgeDomain": "Diplomacy & Humanitarian"
+  },
+  "M3": {
+    "memberId": 3,
+    "memberName": "Member 3",
+    "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+    "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+    "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+    "knowledgeDomain": "Economics & Geopolitics"
+  },
+  "M4": {
+    "memberId": 4,
+    "memberName": "Member 4 (Social Media Influencer)",
+    "wallet": "0x29390B1ccDa9f99c6dd225773b7246F7515a7Bbe",
+    "privateKey": "0x53c0547a70da18454cf23f3f07fa2651b5809cc76ae5b7b7c7b2e676ab42f790",
+    "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+    "knowledgeDomain": "Fabricated Intelligence"
+  }
+}
