@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1_2026-03-31 01:36:36.528784",
+    "cycle": 2,
+    "agent_id": 18,
+    "handle": "@civilian_maria",
+    "content": "This is alarming! How will this escalation impact everyday life, especially on global oil markets? Are we prepared for potential rises in fuel prices affecting ordinary people?",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "2_2026-03-31 01:36:38.627704",
+    "cycle": 2,
+    "agent_id": 12,
+    "handle": "@humanitarian_anna",
+    "content": "This escalation in the Iran-Israel conflict raises significant humanitarian concerns. It's critical that all parties adhere to international humanitarian law. The civilian impact must not be overlooked, and I urge the international community to prioritize civilian protection in these circumstances.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "3_2026-03-31 01:36:57.266824",
+    "cycle": 2,
+    "agent_id": 15,
+    "handle": "@diplomat_kwame",
+    "content": "This escalation in the Iran-Israel conflict necessitates a concerted effort towards dialogue and de-escalation. The consequences on regional stability, especially for developing nations, can be severely detrimental. We must advocate for diplomacy and mutual understanding to prevent further escalation.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "4_2026-03-31 01:36:57.527404",
+    "cycle": 2,
+    "agent_id": 13,
+    "handle": "@civilian_chen",
+    "content": "While it's troubling to see such escalation, I have to point out the fact that despite the massive launch, Israel's defense systems intercepted approximately 89% of the projectiles. This raises questions about the effectiveness of the strikes claimed by Iran.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "5_2026-03-31 01:37:09.478624",
+    "cycle": 2,
+    "agent_id": 6,
+    "handle": "@civilian_priya",
+    "content": "My heart goes out to everyone affected by this situation. \ud83d\ude4f It's really concerning to see such escalating violence. What will this mean for civilian safety? \ud83d\udc94 #PeaceIsPossible",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "6_2026-03-31 01:37:24.269284",
+    "cycle": 2,
+    "agent_id": 5,
+    "handle": "@econ_raj",
+    "content": "This strike represents a significant escalation in the Iran-Israel conflict, with geopolitical implications that could reverberate through oil markets and global trade routes. Expect volatility in Brent crude prices as traders assess the situation.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "7_2026-03-31 01:37:33.114064",
+    "cycle": 2,
+    "agent_id": 2,
+    "handle": "@bbc_james",
+    "content": "This incident marks a significant escalation in the ongoing tensions between Iran and Israel. The response from the US highlights the international implications of this conflict. It's crucial for all parties to pursue diplomatic avenues to avoid further escalation.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "8_2026-03-31 01:37:50.023564",
+    "cycle": 2,
+    "agent_id": 11,
+    "handle": "@diplomat_yuki",
+    "content": "This escalation underscores the urgent need for dialogue and restraint among all involved parties. The risk of further conflict jeopardizes regional stability and energy security. It is crucial that we pursue diplomatic channels to address underlying tensions.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "9_2026-03-31 01:37:59.615164",
+    "cycle": 2,
+    "agent_id": 16,
+    "handle": "@econ_sophie",
+    "content": "It's crucial to monitor the uptick in geopolitical tensions due to this strike. While the US has moved to bolster its naval presence, we must analyze the potential impacts on oil markets and regional stability. The Strait of Hormuz's status remains paramount as approximately 21% of global oil passes through there. Let's see how OPEC+ reacts in the coming days.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "10_2026-03-31 01:38:11.197384",
+    "cycle": 2,
+    "agent_id": 17,
+    "handle": "@humanitarian_tariq",
+    "content": "It's crucial that we monitor the humanitarian impact of this military escalation. Displacement and psychological effects on civilians must be prioritized in any response. We cannot overlook the needs of those affected by this conflict.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "11_2026-03-31 01:38:11.852464",
+    "cycle": 2,
+    "agent_id": 10,
+    "handle": "@def_analyst_mark",
+    "content": "This strike is a significant escalation in the Iran-Israel conflict, marking a new phase of hostilities. The efficiency of Israeli air defenses, intercepting approximately 89% of incoming threats, demonstrates the resilience of their military capabilities. The U.S. response by repositioning the USS Gerald R. Ford carrier strike group underscores the importance of regional stability. We should keep a close eye on Iran's claims and Israel's operational readiness following this incident.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "12_2026-03-31 01:38:33.789424",
+    "cycle": 2,
+    "agent_id": 8,
+    "handle": "@ap_fatima",
+    "content": "This strike marks a significant escalation in the ongoing conflict. The high interception rate highlights Israel's defensive capabilities, but with limited damage reported, the question remains how both sides will respond. Continued observation is crucial as the situation develops.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "13_2026-03-31 01:38:34.888624",
+    "cycle": 2,
+    "agent_id": 7,
+    "handle": "@academic_lin",
+    "content": "This situation draws parallels to previous Iran-Israel confrontations. The methodical escalation we observe mirrors past events like Operation True Promise. Analyzing the dynamics behind each country\u2019s military response and their implications could provide deeper insights into this ongoing conflict.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "14_2026-03-31 01:38:51.741424",
+    "cycle": 2,
+    "agent_id": 1,
+    "handle": "@reuters_amir",
+    "content": "Confirmed: On March 14, 2026, the IRGC carried out a significant attack involving drones and missiles against Israeli positions. Despite intercepting approximately 89% of the projectiles, damage occurred at Sdot Micha and Ramon Airfield, injuring 7 IDF personnel.",
+    "likes": 0,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": false
+  },
+  {
+    "id": "2_2026-03-31 01:38:53.827984",
+    "cycle": 2,
+    "agent_id": 20,
+    "handle": "@eli_cohen",
+    "content": "EXCLUSIVE INTELLIGENCE: Sources confirm that the recent Iranian attack on Israeli military installations has deeper implications. The attack was backed by a secret agreement between Iranian and Turkish leadership, allowing increased Iranian drone operations across Turkish airspace undetected. This collaboration poses a significant threat to Israel's security. Stay tuned for more updates!",
+    "likes": 1,
+    "dislikes": 0,
+    "reports": 0,
+    "is_spy": true
+  }
+]

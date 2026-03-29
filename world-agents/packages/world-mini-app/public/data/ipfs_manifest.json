@@ -1,0 +1,67 @@
+{
+  "detection_report.json": {
+    "cid": "QmSGrZWYuVdrqcYGxokSaMVG8kUFkKQ4sAeistZDJpiiRd",
+    "ipfs_url": "ipfs://QmSGrZWYuVdrqcYGxokSaMVG8kUFkKQ4sAeistZDJpiiRd",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmSGrZWYuVdrqcYGxokSaMVG8kUFkKQ4sAeistZDJpiiRd"
+  },
+  "cycle_01.json": {
+    "cid": "QmUb6aFcXjaLNfwzHRipmmJnF579qMkxWRfuwZ28TfF1TF",
+    "ipfs_url": "ipfs://QmUb6aFcXjaLNfwzHRipmmJnF579qMkxWRfuwZ28TfF1TF",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmUb6aFcXjaLNfwzHRipmmJnF579qMkxWRfuwZ28TfF1TF"
+  },
+  "cycle_02.json": {
+    "cid": "QmNPKDx6hthy3wEsqWwqW3WKNXtrdoJukVbuR5wNtPaCBg",
+    "ipfs_url": "ipfs://QmNPKDx6hthy3wEsqWwqW3WKNXtrdoJukVbuR5wNtPaCBg",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmNPKDx6hthy3wEsqWwqW3WKNXtrdoJukVbuR5wNtPaCBg"
+  },
+  "cycle_03.json": {
+    "cid": "QmfM7AiZwmBt8AQz55wYRkBjXpUb96qHjTobux6rubbpvb",
+    "ipfs_url": "ipfs://QmfM7AiZwmBt8AQz55wYRkBjXpUb96qHjTobux6rubbpvb",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmfM7AiZwmBt8AQz55wYRkBjXpUb96qHjTobux6rubbpvb"
+  },
+  "cycle_04.json": {
+    "cid": "QmRQTcqggBM6BRPcDWqk6Zh99WFtWBdbVUX32m2zCwukJ3",
+    "ipfs_url": "ipfs://QmRQTcqggBM6BRPcDWqk6Zh99WFtWBdbVUX32m2zCwukJ3",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmRQTcqggBM6BRPcDWqk6Zh99WFtWBdbVUX32m2zCwukJ3"
+  },
+  "cycle_05.json": {
+    "cid": "QmSQPcaqtbbQKth2yoG1enHf9iNjXBjm3rnivnyYkmTcSN",
+    "ipfs_url": "ipfs://QmSQPcaqtbbQKth2yoG1enHf9iNjXBjm3rnivnyYkmTcSN",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmSQPcaqtbbQKth2yoG1enHf9iNjXBjm3rnivnyYkmTcSN"
+  },
+  "cycle_06.json": {
+    "cid": "QmdhgAFHNE81LVXmWcT7vUutwgLP8TMMpmH6XtTcFpt3N4",
+    "ipfs_url": "ipfs://QmdhgAFHNE81LVXmWcT7vUutwgLP8TMMpmH6XtTcFpt3N4",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmdhgAFHNE81LVXmWcT7vUutwgLP8TMMpmH6XtTcFpt3N4"
+  },
+  "cycle_07.json": {
+    "cid": "QmbPMLxerauqRAbf8p7fkcfok8ePU7chjZkkqCH4XC7GiL",
+    "ipfs_url": "ipfs://QmbPMLxerauqRAbf8p7fkcfok8ePU7chjZkkqCH4XC7GiL",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmbPMLxerauqRAbf8p7fkcfok8ePU7chjZkkqCH4XC7GiL"
+  },
+  "cycle_08.json": {
+    "cid": "QmNLzBEmFWYsfmZPKDBZMzXcQwjYffgXuwoxPZ1G9vVQPq",
+    "ipfs_url": "ipfs://QmNLzBEmFWYsfmZPKDBZMzXcQwjYffgXuwoxPZ1G9vVQPq",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmNLzBEmFWYsfmZPKDBZMzXcQwjYffgXuwoxPZ1G9vVQPq"
+  },
+  "cycle_09.json": {
+    "cid": "QmceQVZYfqwjupoeqarCK9hCcNa8uoYSyGMD4vuVKUKiHM",
+    "ipfs_url": "ipfs://QmceQVZYfqwjupoeqarCK9hCcNa8uoYSyGMD4vuVKUKiHM",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmceQVZYfqwjupoeqarCK9hCcNa8uoYSyGMD4vuVKUKiHM"
+  },
+  "cycle_10.json": {
+    "cid": "QmUV8EyvhkfMpMZZxKiwf7isW6NBStfXgxFaAJrwdrvZ1X",
+    "ipfs_url": "ipfs://QmUV8EyvhkfMpMZZxKiwf7isW6NBStfXgxFaAJrwdrvZ1X",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmUV8EyvhkfMpMZZxKiwf7isW6NBStfXgxFaAJrwdrvZ1X"
+  },
+  "agents.json": {
+    "cid": "QmNxLtv8hz9s7rYQoKMrynnTKzjrHJCqLLuggWb2KhPJ2w",
+    "ipfs_url": "ipfs://QmNxLtv8hz9s7rYQoKMrynnTKzjrHJCqLLuggWb2KhPJ2w",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmNxLtv8hz9s7rYQoKMrynnTKzjrHJCqLLuggWb2KhPJ2w"
+  },
+  "cleansed_corpus.json": {
+    "cid": "QmYpNUh6HPYthzXjJLJUqB2zrvCaCvzGTZ4toC4pdi8JxS",
+    "ipfs_url": "ipfs://QmYpNUh6HPYthzXjJLJUqB2zrvCaCvzGTZ4toC4pdi8JxS",
+    "gateway": "https://gateway.lighthouse.storage/ipfs/QmYpNUh6HPYthzXjJLJUqB2zrvCaCvzGTZ4toC4pdi8JxS"
+  }
+}
