@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: agentroot-live
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+      cd world-agents/packages/world-mini-app
+      npm install
+      npm run build
+    startCommand: cd agentroot/chatbot && uvicorn chatbot_api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: LIGHTHOUSE_API_KEY
+        sync: false
