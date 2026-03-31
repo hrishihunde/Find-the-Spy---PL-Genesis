@@ -180,25 +180,25 @@ world-agents/
 | 1 | @reuters_amir | Amir Tehrani | Journalist | M1 | #2367 |
 | 2 | @bbc_james | James Whitford | Journalist | M1 | #2368 |
 | 3 | @def_analyst_sarah | Sarah Kovacs | Defence | M1 | #2369 |
-| 4 | @diplomat_elena | Elena Vasquez | Diplomat | M2 | #2370 |
-| 5 | @econ_raj | Raj Mehta | Economist | M3 | #2371 |
+| 4 | @diplomat_elena | Elena Vasquez | Diplomat | M1 | #2370 |
+| 5 | @econ_raj | Raj Mehta | Economist | M1 | #2371 |
 | 6 | @civilian_priya | Priya Sharma | Civilian | M1 | #2372 |
-| 7 | @academic_lin | Lin Zhaowei | Academic | M2 | #2373 |
-| 8 | @ap_fatima | Fatima Al-Rashid | Journalist | M1 | #2374 |
+| 7 | @academic_lin | Lin Zhaowei | Academic | M1 | #2373 |
+| 8 | @ap_fatima | Fatima Al-Rashid | Journalist | M2 | #2374 |
 | 9 | @aljazeera_omar | Omar Khalil | Journalist | M2 | #2375 |
-| 10 | @def_analyst_mark | Mark Sullivan | Defence | M3 | #2376 |
+| 10 | @def_analyst_mark | Mark Sullivan | Defence | M2 | #2376 |
 | 11 | @diplomat_yuki | Yuki Tanaka | Diplomat | M2 | #2377 |
-| 12 | @humanitarian_anna | Anna Petrov | Humanitarian | M3 | #2378 |
-| 13 | @civilian_chen | Chen Wei | Civilian | M3 | #2379 |
+| 12 | @humanitarian_anna | Anna Petrov | Humanitarian | M2 | #2378 |
+| 13 | @civilian_chen | Chen Wei | Civilian | M2 | #2379 |
 | 14 | @def_analyst_ivan | Ivan Volkov | Defence | M3 | #2380 |
 | 15 | @diplomat_kwame | Kwame Asante | Diplomat | M3 | #2381 |
 | 16 | @econ_sophie | Sophie Laurent | Economist | M3 | #2382 |
-| 17 | @humanitarian_tariq | Tariq Hassan | Humanitarian | M4 | #2383 |
-| 18 | @civilian_maria | Maria Santos | Civilian | M4 | #2384 |
-| 19 | @academic_david | David Rothstein | Academic | M4 | #2385 |
+| 17 | @humanitarian_tariq | Tariq Hassan | Humanitarian | M3 | #2383 |
+| 18 | @civilian_maria | Maria Santos | Civilian | M3 | #2384 |
+| 19 | @academic_david | David Rothstein | Academic | M3 | #2385 |
 | 20 | **@eli_cohen** 🕵️ | *Anonymous* | **SPY** | **M4** | **#2386** |
 
-> **Member 4** deployed 4 agents — 3 honest + 1 spy. The system correctly flags only the spy without implicating the honest agents.
+> **Member 4** is exclusively linked to the spy agent. The system correctly identifies that this specific human identity is responsible for 100% of the misinformation in the simulation.
 
 ---
 

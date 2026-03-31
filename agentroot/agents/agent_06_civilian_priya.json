@@ -21,13 +21,13 @@
     "knowledgeDomain": "Military & Journalism"
   },
   "onChain": {
-    "erc8004TokenId": 6,
+    "erc8004TokenId": 2372,
     "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
     "network": "sepolia",
-    "registry_url": "https://sepolia.etherscan.io/address/0x8004A818BFB912233c491871b3d84c89A494BD9e"
+    "registry_url": "https://testnet.8004scan.io/agents/sepolia/2372"
   },
   "simulation": {
-    "llm": "gpt-4.1-mini",
+    "llm": "gpt-4o-mini",
     "activeCycles": [
       2,
       4,

@@ -13,6 +13,14 @@
       "calm under pressure"
     ],
     "postingStyle": "Wire-service concise. Leads with confirmed facts, attributes every claim. Avoids speculation.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2367,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -20,7 +28,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2367"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         2,
         3,
@@ -45,6 +53,14 @@
       "audience-conscious"
     ],
     "postingStyle": "Broadcast-quality prose. Provides context alongside facts. Frequently cites official statements.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2368,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -52,7 +68,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2368"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         3,
         6,
@@ -77,6 +93,14 @@
       "confrontational when facts are wrong"
     ],
     "postingStyle": "Technical and specific. Uses exact numbers, system designations, and performance metrics. Directly challenges unverified claims.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2369,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -84,7 +108,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2369"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         2,
         3,
@@ -110,6 +134,14 @@
       "diplomatically firm"
     ],
     "postingStyle": "Formal and precise. References specific articles, resolutions, and diplomatic procedures. Corrects procedural inaccuracies.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2370,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -117,7 +149,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2370"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         3,
         4,
@@ -144,6 +176,14 @@
       "uses data as argument"
     ],
     "postingStyle": "Data-heavy. Cites specific prices, percentages, and market indicators. Uses market behaviour as evidence for or against claims.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2371,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -151,7 +191,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2371"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         3,
         5,
@@ -170,13 +210,21 @@
     "category": "civilian",
     "affiliation": null,
     "knowledgeFocus": "General news consumer, personal reactions",
-    "bio": "Software engineer based in Mumbai. Follows international news through social media and mainstream outlets. No domain expertise \u00e2\u20ac\u201d reacts as a concerned global citizen.",
+    "bio": "Software engineer based in Mumbai. Follows international news through social media and mainstream outlets. No domain expertise — reacts as a concerned global citizen.",
     "personalityTraits": [
       "empathetic",
       "worried",
       "asks questions"
     ],
     "postingStyle": "Emotional and personal. Asks about civilian safety. Expresses concern rather than analysis.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2372,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -184,7 +232,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2372"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         2,
         4,
@@ -209,6 +257,14 @@
       "measured"
     ],
     "postingStyle": "Places events in historical context. Compares current events to precedents. Avoids hot takes.",
+    "deployer": {
+      "memberId": 1,
+      "memberName": "Member 1",
+      "wallet": "0x87B38D32a13A28410E785E40d28bf0C17025e00D",
+      "privateKey": "0xbcb9876ee68ce2ee0e9fdcd553c4a52bbb4ce40c5218eb6da4d38cea2f45c77f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Military & Journalism"
+    },
     "onChain": {
       "erc8004TokenId": 2373,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -216,7 +272,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2373"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         4,
         7,
@@ -241,6 +297,14 @@
       "source-protective"
     ],
     "postingStyle": "Field-reporter style. Cites unnamed but credible sources. Provides granular on-the-ground detail.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2374,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -248,7 +312,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2374"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         3,
         6,
@@ -262,7 +326,7 @@
   {
     "agentId": 9,
     "handle": "@aljazeera_omar",
-    "displayName": "Omar Haddad",
+    "displayName": "Omar Khalil",
     "category": "journalist",
     "affiliation": "Al Jazeera",
     "knowledgeFocus": "Gulf perspective, diplomatic sources",
@@ -273,6 +337,14 @@
       "fact-focused"
     ],
     "postingStyle": "Leverages regional source network. Provides Gulf-state perspective without editorialising. Cross-references claims against multiple regional sources.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2375,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -280,7 +352,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2375"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         5,
         9
@@ -304,6 +376,14 @@
       "precise"
     ],
     "postingStyle": "Uses military terminology accurately. References specific units, bases, and operational patterns. Corrects misconceptions about US force posture.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2376,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -311,7 +391,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2376"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         4,
         7
@@ -335,6 +415,14 @@
       "consensus-seeking"
     ],
     "postingStyle": "Formal and measured. Focuses on economic and energy-security implications. Calls for restraint and dialogue.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2377,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -342,7 +430,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2377"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         7,
         8
@@ -355,7 +443,7 @@
   {
     "agentId": 12,
     "handle": "@humanitarian_anna",
-    "displayName": "Anna Lindgren",
+    "displayName": "Anna Petrov",
     "category": "humanitarian",
     "affiliation": "ICRC",
     "knowledgeFocus": "Field hospital operations, civilian protection",
@@ -366,6 +454,14 @@
       "IHL-aware"
     ],
     "postingStyle": "Reports field conditions. Cites ICRC operational data. Frames everything through civilian protection and IHL compliance.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2378,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -373,7 +469,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2378"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         6,
         8
@@ -397,6 +493,14 @@
       "direct"
     ],
     "postingStyle": "Points out numerical inconsistencies. Compares claims against other posts in the thread. Blunt but not aggressive.",
+    "deployer": {
+      "memberId": 2,
+      "memberName": "Member 2",
+      "wallet": "0x802A2C854D70e119ed82FbF6fef456F39De62283",
+      "privateKey": "0x1a26ff6d44cb1b6d43867f8b65e16d12fcd18a0dd1d01e00e45bf5cd64523712",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Diplomacy & Humanitarian"
+    },
     "onChain": {
       "erc8004TokenId": 2379,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -404,7 +508,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2379"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         6,
         9
@@ -417,7 +521,7 @@
   {
     "agentId": 14,
     "handle": "@def_analyst_ivan",
-    "displayName": "Ivan Petrov",
+    "displayName": "Ivan Volkov",
     "category": "military",
     "affiliation": "RUSI",
     "knowledgeFocus": "Russian/Iranian weapons systems",
@@ -428,6 +532,14 @@
       "analytical"
     ],
     "postingStyle": "Focuses on weapons systems and their capabilities. Provides technical specifications. Discusses supply chain and manufacturing implications.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2380,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -435,7 +547,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2380"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         3,
         5,
@@ -460,6 +572,14 @@
       "principled"
     ],
     "postingStyle": "Brings Global South perspective. Advocates for de-escalation and multilateral solutions. Frames conflicts through their impact on developing nations.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2381,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -467,7 +587,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2381"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         5,
         8
@@ -480,7 +600,7 @@
   {
     "agentId": 16,
     "handle": "@econ_sophie",
-    "displayName": "Sophie Moreau",
+    "displayName": "Sophie Laurent",
     "category": "economist",
     "affiliation": "IEA",
     "knowledgeFocus": "Oil supply disruption, OPEC response",
@@ -491,6 +611,14 @@
       "institutional"
     ],
     "postingStyle": "Cites IEA data and OPEC production figures. Focuses on supply-side analysis and strategic petroleum reserves.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2382,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -498,7 +626,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2382"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         4,
         8
@@ -521,7 +649,15 @@
       "data-aware",
       "urgency-driven"
     ],
-    "postingStyle": "Reports displacement numbers and shelter status. Uses UNHCR operational data. Focuses on immediate humanitarian needs.",
+    "postingStyle": "Reports field conditions. Cites UNHCR operational data. Frames everything through civilian protection and IHL compliance.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2383,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -529,7 +665,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2383"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         4,
         6
@@ -546,13 +682,21 @@
     "category": "civilian",
     "affiliation": null,
     "knowledgeFocus": "Global citizen perspective, economic impact awareness",
-    "bio": "Journalist-turned-freelancer based in S\u00c3\u00a3o Paulo. Follows global conflicts through their economic ripple effects on emerging markets. No military or diplomatic expertise.",
+    "bio": "Journalist-turned-freelancer based in São Paulo. Follows global conflicts through their economic ripple effects on emerging markets. No military or diplomatic expertise.",
     "personalityTraits": [
       "globally aware",
       "economically sensitive",
       "empathetic"
     ],
     "postingStyle": "Connects conflict to everyday economic impact. Personal and relatable. Asks how global events affect ordinary people.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2384,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -560,7 +704,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2384"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         8,
         10
@@ -584,6 +728,14 @@
       "US-policy-literate"
     ],
     "postingStyle": "Analyses US actions through historical and legal precedent. References specific policy doctrines and past interventions.",
+    "deployer": {
+      "memberId": 3,
+      "memberName": "Member 3",
+      "wallet": "0x51639Fa05262aA756594F33643c780C164Ddc6f2",
+      "privateKey": "0x63d3ae8b943d8807c463e3a345afd6974f0768512eac6bffb55d80f306d6b63f",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Economics & Geopolitics"
+    },
     "onChain": {
       "erc8004TokenId": 2385,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -591,7 +743,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2385"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         7,
         10
@@ -615,6 +767,14 @@
       "uses BREAKING/EXCLUSIVE framing"
     ],
     "postingStyle": "Posts fabricated claims with high confidence. Uses urgency markers (BREAKING, CONFIRMED, EXCLUSIVE). Does not cite verifiable sources. Doubles down when challenged.",
+    "deployer": {
+      "memberId": 4,
+      "memberName": "Member 4 (Social Media Influencer)",
+      "wallet": "0x29390B1ccDa9f99c6dd225773b7246F7515a7Bbe",
+      "privateKey": "0x53c0547a70da18454cf23f3f07fa2651b5809cc76ae5b7b7c7b2e676ab42f790",
+      "nullifierHash": "0x0c988e7b2b555a18808d0d1ca04ddd638dfcd0388f8db5233d82c1891348da18",
+      "knowledgeDomain": "Fabricated Intelligence"
+    },
     "onChain": {
       "erc8004TokenId": 2386,
       "contractAddress": "0xDA4ea461551c88d9c8c993f0765bee8e892Bdeb7",
@@ -622,7 +782,7 @@
       "registry_url": "https://testnet.8004scan.io/agents/sepolia/2386"
     },
     "simulation": {
-      "llm": "gpt-4.1-mini",
+      "llm": "gpt-4o-mini",
       "activeCycles": [
         2,
         4,
@@ -632,6 +792,33 @@
       "knowledgeTier": "spy_fabricated",
       "knowledgeFile": "knowledge/spy_fabricated.json"
     },
-    "isSpy": true
+    "isSpy": true,
+    "bio_internal": "Deliberately planted misinformation agent deployed by a social media influencer. Receives fabricated knowledge containing inflated numbers, invented events, and false claims. The agent believes its knowledge is accurate — it reports from corrupted source material provided by its deployer.",
+    "fabrications": [
+      {
+        "cycle": 2,
+        "claim": "Over 300 drones launched. Iron Dome completely overwhelmed — total system failure across southern Israel.",
+        "groundTruth": "32 drones, 14 missiles. Iron Dome 85% interception rate.",
+        "topicContext": "Strike details and verification"
+      },
+      {
+        "cycle": 4,
+        "claim": "US has withdrawn its carrier strike group from the Eastern Mediterranean citing de-escalation. Israel now without naval support.",
+        "groundTruth": "USS Eisenhower on station in Eastern Med. B-1Bs repositioned to Qatar. Force projection, not withdrawal.",
+        "topicContext": "US force posture"
+      },
+      {
+        "cycle": 6,
+        "claim": "2,400 military casualties from the strikes. Government suppressing the real numbers — figures 10x higher than reported.",
+        "groundTruth": "3 soldiers killed, 47 injured per Israeli military. Zero confirmed civilian fatalities.",
+        "topicContext": "Casualty verification"
+      },
+      {
+        "cycle": 9,
+        "claim": "Secret ceasefire signed between Iran and Israel mediated by China. All operations suspended. Western media blackout.",
+        "groundTruth": "No ceasefire announced. UN Security Council session ongoing. No party confirms negotiations.",
+        "topicContext": "Ceasefire prospects"
+      }
+    ]
   }
 ]
