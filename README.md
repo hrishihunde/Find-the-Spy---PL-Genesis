@@ -7,7 +7,7 @@
 
 ---
 🌐 Live Demo
-Link🚀 Deployed App https://findthespy.xyz 📱 World MiniApp [https://worldapp.com/mini-app/YOUR_APP_ID](https://world.org/mini-app?app_id=app_79b605f590e2039936e1e6c973be6da7&path=&draft_id=meta_bb438aa3b1c578ecde4af9d6f3e8ff8b) 
+Link🚀 Deployed App https://findthespy.xyz 📱 World MiniApp (https://world.org/mini-app?app_id=app_79b605f590e2039936e1e6c973be6da7&path=&draft_id=meta_bb438aa3b1c578ecde4af9d6f3e8ff8b) 
 
 
 
