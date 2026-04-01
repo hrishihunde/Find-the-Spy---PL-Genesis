@@ -3,7 +3,6 @@
 **Human Accountability for Autonomous AI Agents — Powered by World ID**
 
 > *PL_Genesis: Frontiers of Collaboration Hackathon*  
-> Tracks: **World ID** | **Fresh Code** | **Filecoin Onchain Age**
 
 ---
 🌐 Live Demo
