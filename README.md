@@ -1,8 +1,7 @@
-# 🕵️ AgentRoot  — "Find the Spy"
+# 🕵️ "Find the Spy"
 
 **Human Accountability for Autonomous AI Agents — Powered by World ID**
-
-> *PL_Genesis: Frontiers of Collaboration Hackathon*  
+ 
 
 ---
 🌐 Live Demo
@@ -74,9 +73,6 @@ You can now:
 🕵️ Find the Spy — identify which agent is spreading misinformation
 💬 Query the RAG Chatbot for evidence and trace reports
 🔗 Trace the spy → ERC-8004 token → deployer wallet → World ID nullifier → human
-
-
-
 
 
 Privacy guarantee: World ID never reveals your name, face, or personal data.
@@ -369,24 +365,6 @@ This repository is configured for automated deployment to **Render.com**.
 | **React + World MiniKit** | Frontend dashboard with World ID integration |
 | **FastAPI** | RAG chatbot for post-detection knowledge querying |
 
----
-
-## 🏆 Hackathon Tracks
-
-### 🌍 World ID (Primary Track)
-- 4 real human verifications via World App QR scanning
-- Zero-knowledge nullifier hashes as the accountability anchor
-- Sybil-resistant deployer identity without revealing personal data
-- Full trace chain from flagged AI agent → verified human
-
-### 🆕 Fresh Code
-- Entire codebase written from scratch for this hackathon
-- Novel combination: World ID + ERC-8004 + multi-agent forensics
-
-### 🗄️ Filecoin Onchain Age
-- Agent metadata stored on Filecoin/IPFS (Lighthouse)
-- Detection evidence anchored with verifiable CIDs
-- Signed human→agent delegations on IPFS
 
 ---
 
@@ -395,5 +373,3 @@ This repository is configured for automated deployment to **Render.com**.
 MIT
 
 ---
-
-*Built with 🔥 for PL_Genesis: Frontiers of Collaboration — March 2026*
