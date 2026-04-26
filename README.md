@@ -82,11 +82,11 @@ Only a nullifier hash (ZK proof) is used to confirm you are a unique real human.
 
 AI agents can spread misinformation at scale. When one does — **who is responsible?**
 
-AgentRoot solves this by cryptographically binding every autonomous AI agent to a **verified human identity** using **World ID**. No personal data is revealed. Only a zero-knowledge proof connects the agent to its human deployer.
+Find-the-Spy solves this by cryptographically binding every autonomous AI agent to a **verified human identity** using **World ID**. No personal data is revealed. Only a zero-knowledge proof connects the agent to its human deployer.
 
 ---
 
-## 🌍 How World ID Powers AgentRoot
+## 🌍 How World ID Powers Find-the-Spy
 
 World ID is the **core identity layer** of the entire system. Without it, there is no accountability.
 
@@ -177,7 +177,7 @@ Each verified human produces a `.worldauth.json` containing:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    AgentRoot v5                         │
+│                    FInd-the-Spy v5                         │
 ├─────────────┬──────────────┬──────────────┬─────────────┤
 │  Identity   │  Simulation  │  Detection   │  Frontend   │
 │  (World ID) │  (OASIS)     │  (OpenClaw)  │  (MiniApp)  │
@@ -204,14 +204,14 @@ world-agents/
 ├── README.md                      # ← You are here
 ├── link_world_id.js               # Links World ID nullifiers to Ethereum wallets
 ├── generate_agents.js             # Creates 20 agents bound to verified humans
-├── agentroot/
+├── FInd-the-Spy/
 │   ├── deployers.json             # 4 verified humans + wallets + nullifiers
 │   ├── agents/                    # 20 agent persona JSONs
 │   │   └── erc8004_cards/         # ERC-8004 compliant agent cards
 │   ├── contracts/                 # Hardhat project (Solidity)
 │   │   ├── src/
-│   │   │   ├── AgentRootRegistry.sol      # Custom contract (World ID + flagging)
-│   │   │   └── AgentRootAccountability.sol # ERC-8004 wrapper
+│   │   │   ├── FInd-the-SpyRegistry.sol      # Custom contract (World ID + flagging)
+│   │   │   └── FInd-the-SpyAccountability.sol # ERC-8004 wrapper
 │   │   └── scripts/
 │   │       ├── registerAgents.js          # Dual registration (official + custom)
 │   │       ├── updateURIs.js              # Update metadata on registry
@@ -236,7 +236,7 @@ world-agents/
 | Component | Network | Address |
 |---|---|---|
 | **Official ERC-8004 Registry** | Ethereum Sepolia | `0x8004A818BFB912233c491871b3d84c89A494BD9e` |
-| **AgentRootRegistry** (custom) | Ethereum Sepolia | `0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512` |
+| **FInd-the-SpyRegistry** (custom) | Ethereum Sepolia | `0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512` |
 | **20 Agents** | Ethereum Sepolia | Token IDs **#2367 – #2386** |
 | **Agent Metadata** | Filecoin/IPFS | Lighthouse gateway |
 
@@ -282,7 +282,7 @@ world-agents/
 
 ```bash
 npm install
-cd agentroot/contracts && npm install
+cd FInd-the-Spy/contracts && npm install
 cp .env.example .env
 # Fill: PRIVATE_KEY, OPENAI_API_KEY, LIGHTHOUSE_API_KEY, WORLD_APP_ID
 ```
@@ -306,7 +306,7 @@ node generate_agents.js  # Creates 20 agents bound to verified humans
 ### 4. Deploy & Register On-Chain
 
 ```bash
-cd agentroot/contracts
+cd FInd-the-Spy/contracts
 npx hardhat compile
 node scripts/deployCustom.js          # Deploy custom contract
 node scripts/registerAgents.js        # Register on official ERC-8004
@@ -324,7 +324,7 @@ npm install
 npm run build
 
 # 2. Start the Unified Backend (Serves API + Frontend)
-cd ../../../agentroot/chatbot
+cd ../../../FInd-the-Spy/chatbot
 pip install -r ../../requirements.txt
 uvicorn chatbot_api:app --host 0.0.0.0 --port 8000
 ```
@@ -355,7 +355,7 @@ This repository is configured for automated deployment to **Render.com**.
 
 ## 🔑 Key Technologies
 
-| Technology | Role in AgentRoot |
+| Technology | Role in FInd-the-Spy |
 |---|---|
 | **World ID** | Sybil-resistant human verification — the identity backbone |
 | **ERC-8004** | On-chain AI agent identity registry (8004scan.io) |
